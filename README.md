@@ -14,3 +14,6 @@ ssh <hostname>
 
 `sudo a2enmod proxy proxy_http proxy_balancer slotmem_shm lbmethod_byrequests`
 
+**Apache Bench**
+
+`ab -n <count> -c <concurrent requests> "<url>"`
