@@ -8,7 +8,7 @@ ssh <hostname>
 
 **Rsync files from development to server**
 
-`rsync -rpltv release remote-server:/path/to/containing/directory
+`rsync -rpltv release remote-server:/path/to/containing/directory`
 
 **Apache mods for setting up balancer proxy**
 
