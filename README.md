@@ -23,4 +23,5 @@ ssh <hostname>
 `convert src.jpg -resize 64x64 dest.jpg`
 
 **Generate random words**
+
 `shuf -n3 /usr/share/dict/words`
